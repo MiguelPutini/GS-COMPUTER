@@ -72,20 +72,6 @@ Desenvolver um sistema IoT capaz de monitorar variáveis físicas essenciais par
 
 ---
 
-## 📁 Estrutura do Repositório
-📦 capsula-espacial
-├── 📄 capsula_espacial.ino     — Código fonte do Arduino
-├── 📄 README.md                — Documentação do projeto
-├── 📄 relatorio_tecnico.pdf    — Relatório técnico completo
-└── 📁 imagens
-├── circuito_completo.png   — Print do circuito no Tinkercad
-├── lcd_temperatura.png     — LCD exibindo temperatura
-├── lcd_luminosidade.png    — LCD exibindo luminosidade
-├── lcd_vibracao.png        — LCD exibindo vibração
-├── lcd_alerta.png          — LCD com alerta ativo e LED aceso
-└── monitor_serial.png      — Dados no monitor serial
-
----
 
 ## 📷 Simulação em Funcionamento
 
