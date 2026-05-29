@@ -6,7 +6,7 @@ Sistema embarcado desenvolvido com Arduino Uno para monitoramento em tempo real 
 
 ## 📷 Circuito
 
-![Circuito Completo](imagens/circuito_completo.png)
+![Circuito Completo](circuito_completo.png)
 
 ---
 
@@ -77,15 +77,15 @@ Desenvolver um sistema IoT capaz de monitorar variáveis físicas essenciais par
 
 | Temperatura | Luminosidade |
 |---|---|
-| ![LCD Temperatura](imagens/lcd_temperatura.png) | ![LCD Luminosidade](imagens/lcd_luminosidade.png) |
+| ![LCD Temperatura](lcd_temperatura.png) | ![LCD Luminosidade](lcd_luminosidade.png) |
 
 | Vibração | Alerta Ativo |
 |---|---|
-| ![LCD Vibração](imagens/lcd_vibracao.png) | ![LCD Alerta](imagens/lcd_alerta.png) |
+| ![LCD Vibração](lcd_vibracao.png) | ![LCD Alerta](lcd_alerta.png) |
 
 ### Monitor Serial
 
-![Monitor Serial](imagens/monitor_serial.png)
+![Monitor Serial](monitor_serial.png)
 
 ---
 
